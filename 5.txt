@@ -1,0 +1,8 @@
+step1:  Planning
+    type the topic you want to search on the search bar in the web browser like google chrome or microsoft edge
+step2: testing in this case searching
+    find the appropriate url and click on the url to go through the topic
+step3: end -user documentation
+    right click the mouse and copy the text from the website and download the image.
+step4: handover
+    copy on to the word document or the notes.
